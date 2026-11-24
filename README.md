@@ -1,6 +1,6 @@
 # JupyterLite site scaffold
 
-This is a minimal, working scaffold for deploying your Jupyter notebooks as a
+This  is a minimal, working scaffold for deploying your Jupyter notebooks as a
 browser-based, no-login Python environment via JupyterLite + GitHub Pages.
 
 ## What's in here
